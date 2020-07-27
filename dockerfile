@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 FROM mysql:5.7.31
+=======
+FROM mysql:8.0
+>>>>>>> 0bac749752ec9cc3fb73b8ca717a113be9e743cb
 
 #设置免密登录
 ENV MYSQL_ALLOW_EMPTY_PASSWORD yes
